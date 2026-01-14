@@ -13,7 +13,6 @@ class Solution {
             nums[j] = 0;
             j++;
         }
-
-        // return nums;
+    
     }
 }
